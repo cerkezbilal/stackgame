@@ -1,0 +1,2 @@
+# stackgame
+stack clone oyunu
